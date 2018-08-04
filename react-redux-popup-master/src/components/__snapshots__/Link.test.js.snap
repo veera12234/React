@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link Component Active Page - No Link 1`] = `
+<a
+  href="#"
+  onClick={[Function]}
+>
+  Test
+</a>
+`;
+
+exports[`Link Component Active Page - No Link 2`] = `
+<a
+  href="#"
+  onClick={[Function]}
+>
+  Test
+</a>
+`;
+
+exports[`Link Component InActive Page - Show Link 1`] = `
+<span>
+  Test
+</span>
+`;
